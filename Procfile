@@ -1,1 +1,1 @@
-web: gunicorn herokutest.wsgi:application
+web: gunicorn herokutest.wsgi
